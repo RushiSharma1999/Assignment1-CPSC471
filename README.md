@@ -2,7 +2,7 @@
 
 Team Information
 - Rushi Sharma | rushisharma@csu.fullerton.edu
-- Jeffrey Saari| saari.jeffrey@csu.fullerton.edu
+- Jeffrey Saari | saari.jeffrey@csu.fullerton.edu
 - Eric Mccarry | email address
 
 Programming Language
