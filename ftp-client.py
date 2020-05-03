@@ -3,7 +3,7 @@
 from ftplib import FTP
 
 ftp = FTP('')
-ftp.connect('IPaddress',1026) #the IP Address you're trying to reach
+ftp.connect('127.0.0.1',1026) #the IP Address you're trying to reach
 ftp.login()
 ftp.cwd('/home') #your directory
 ftp.retrlines('LIST')
