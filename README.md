@@ -9,8 +9,9 @@ Programming Language
 - Python
 
 Program Execution Instructions:
-- Run the Code.
-- More will be added later.
+- To run the code, call the appropriate program from the terminal:
+1. python3 serverCode.py
+2. python3 clientCode.py
 
 Special Notes
 - None at the moment.
